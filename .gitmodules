@@ -1,0 +1,3 @@
+[submodule "ss_winClinet"]
+	path = ss_winClinet
+	url = git://github.com/shadowsocks/shadowsocks-windows.git
